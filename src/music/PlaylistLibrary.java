@@ -26,18 +26,14 @@ public class PlaylistLibrary {
           System.out.print("asdasdadasd");
      }
 
-    /**
-     * DO NOT EDIT!
-     * Default constructor for an empty library.
-     */
-    public PlaylistLibrary() {
-<<<<<<< HEAD
-        System.out.println("THIS IS MINE");
-        // this(null);
-=======
-        this(null);
->>>>>>> 9c4d63448adafd3fdc9f96bb7d530f7e3ebb1900
-    }
+     /**
+      * DO NOT EDIT!
+      * Default constructor for an empty library.
+      */
+     public PlaylistLibrary() {
+          System.out.println("THIS IS MINE");
+          // this(null);
+     }
 
      /**
       * This method reads the songs from an input csv file, and creates a
