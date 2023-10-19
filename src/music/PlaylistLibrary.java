@@ -1,7 +1,6 @@
 package music;
 
 import java.util.*;
-//Abduafakfjal
 
 /**
  * This class represents a library of song playlists.
@@ -24,6 +23,7 @@ public class PlaylistLibrary {
      */
     public PlaylistLibrary(ArrayList<Playlist> songLibrary) {
         this.songLibrary = songLibrary;
+        System.out.print("asdasdadasd");
     }
 
     /**
